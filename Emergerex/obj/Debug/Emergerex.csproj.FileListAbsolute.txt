@@ -1,0 +1,5 @@
+E:\Users\Vutivi\Desktop\Emergerex\Emergerex\bin\Emergerex.dll
+E:\Users\Vutivi\Desktop\Emergerex\Emergerex\bin\Emergerex.pdb
+E:\Users\Vutivi\Desktop\Emergerex\Emergerex\obj\Debug\Emergerex.csprojResolveAssemblyReference.cache
+E:\Users\Vutivi\Desktop\Emergerex\Emergerex\obj\Debug\Emergerex.dll
+E:\Users\Vutivi\Desktop\Emergerex\Emergerex\obj\Debug\Emergerex.pdb
